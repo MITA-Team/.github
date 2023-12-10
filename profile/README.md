@@ -23,7 +23,7 @@
 | M318BSY0226 	|     Yusuf Budi Kusuma    	|  Machine Learning  	| Active 	|       [Link](https://github.com/bdksma)      	|
 | C296BSY3712 	|        Prinafsika        	|   Cloud Computing  	| Active 	|     [Link](https://github.com/Naffsisky)     	|
 | C296BSX3762 	| Fidela Carissa Aramintha 	|   Cloud Computing  	| Active 	|   [Link](https://github.com/FidelaCarissaA)  	|
-| A318BSY2384 	|        Hafiz Ibrahim       	| Mobile Development 	| Active 	|   [Link](https://github.com/hafizzibrahim)   	|
+| A318BSY2384 	|        Hafiz Ibrahim      | Mobile Development 	| Active 	|   [Link](https://github.com/hafizzibrahim)   	|
 | A491BSY2263 	|      Raihan Mubarok      	| Mobile Development 	| Active 	|     [Link](https://github.com/rehaanhan)     	|
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -56,11 +56,11 @@
 
 ###
 
-<h2 align="center">Cloud Computing</h2>
+<h2 align="center">Cloud Computing Tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
