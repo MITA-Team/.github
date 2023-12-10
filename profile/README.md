@@ -23,7 +23,7 @@
 | M318BSY0226 	|     Yusuf Budi Kusuma    	|  Machine Learning  	| Active 	|       [Link](https://github.com/bdksma)      	|
 | C296BSY3712 	|        Prinafsika        	|   Cloud Computing  	| Active 	|     [Link](https://github.com/Naffsisky)     	|
 | C296BSX3762 	| Fidela Carissa Aramintha 	|   Cloud Computing  	| Active 	|   [Link](https://github.com/FidelaCarissaA)  	|
-| A318BSY2384 	|        Haz Ibrahim       	| Mobile Development 	| Active 	|   [Link](https://github.com/hafizzibrahim)   	|
+| A318BSY2384 	|        Hafiz Ibrahim       	| Mobile Development 	| Active 	|   [Link](https://github.com/hafizzibrahim)   	|
 | A491BSY2263 	|      Raihan Mubarok      	| Mobile Development 	| Active 	|     [Link](https://github.com/rehaanhan)     	|
 
 ###
