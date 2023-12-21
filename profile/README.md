@@ -27,6 +27,8 @@
 
 <h2>Special Thanks to All Developer 🎉</h2>
 
+<div align="center">
+
 |      Id     	|           Name           	|       Co-hort      	| Status 	|                    Github                    	|
 |:-----------:	|:------------------------:	|:------------------:	|:------:	|:--------------------------------------------:	|
 | M296BSX0882 	|    Rena Rama Rosalinda   	|  Machine Learning  	| Active 	| [Link](https://github.com/renaramarosalinda) 	|
@@ -36,6 +38,8 @@
 | C296BSX3762 	| Fidela Carissa Aramintha 	|   Cloud Computing  	| Active 	|   [Link](https://github.com/FidelaCarissaA)  	|
 | A318BSY2384 	|        Hafiz Ibrahim      | Mobile Development 	| Active 	|   [Link](https://github.com/hafizzibrahim)   	|
 | A491BSY2263 	|      Raihan Mubarok      	| Mobile Development 	| Active 	|     [Link](https://github.com/rehaanhan)     	|
+
+</div>
 
 ###
 
