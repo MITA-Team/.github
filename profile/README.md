@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="center">This is the result of the hard work all of us to complete the Product Based Capstone by Team C23-PS081</h2>
+<h2 align="center">This is the result of the hard work all of us to complete the Product Based Capstone by Team C23-PS081</h2> 
+
+<br>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 <br><br></div>
@@ -25,7 +27,9 @@
 
 ###
 
-<h2>Special Thanks to All Developer 🎉</h2>
+<hr>
+
+<h2 align="center">Special Thanks to All Developer 🎉</h2>
 
 <div align="center">
 
@@ -86,6 +90,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+<hr>
 
 ###
 
