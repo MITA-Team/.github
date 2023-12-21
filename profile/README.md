@@ -1,22 +1,33 @@
-<h1 align="left">We Are MITA Team! 👋🏻</h1>
+<h1 align="left">Hello, We Are MITA Team! 👋🏻</h1>
 
 ###
 
-<h4 align="left">Bangkit 2023 Product Based Capstone by Team C23-PS081</h4>
+<h2 align="center">This is the result of the hard work all of us to complete the Product Based Capstone by Team C23-PS081</h2>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br></div>
+
 
 ###
 
 ###
 
-<h3 align="left">Visitor</h3>
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/MITA-Team/count.svg?"  />
+<div align="center">
+  <h3>Visitor</h3>
+  <img src="https://profile-counter.glitch.me/MITA-Team/count.svg?"  /> <br>
+  <h3>Project Status</h3>
+  
+  [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?)](https://github.com/MITA-Team/backend-api/actions)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg?)](https://opensource.org/licenses/MIT)
+  [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/MITA-Team/backend-api/releases)
 </div>
 
+
 ###
 
-|      Id     	|           Name           	|       Co-hort      	| Status 	|                    Social                    	|
+<h2>Special Thanks to All Developer 🎉</h2>
+
+|      Id     	|           Name           	|       Co-hort      	| Status 	|                    Github                    	|
 |:-----------:	|:------------------------:	|:------------------:	|:------:	|:--------------------------------------------:	|
 | M296BSX0882 	|    Rena Rama Rosalinda   	|  Machine Learning  	| Active 	| [Link](https://github.com/renaramarosalinda) 	|
 | M318BSX0523 	|    Alya Fauzia Azizah    	|  Machine Learning  	| Active 	|    [Link](https://github.com/alyafauzia25)   	|
@@ -28,7 +39,11 @@
 
 ###
 
-<h2 align="center">Mobile Development Tools</h2>
+<h2 align="center">Technology</h2>
+
+###
+
+<h3 align="center">Mobile Development Tools</h3>
 
 ###
 
@@ -42,7 +57,7 @@
 
 ###
 
-<h2 align="center">Machine Learning Tools</h2>
+<h3 align="center">Machine Learning Tools</h3>
 
 ###
 
@@ -56,7 +71,7 @@
 
 ###
 
-<h2 align="center">Cloud Computing Tools</h2>
+<h3 align="center">Cloud Computing Tools</h3>
 
 ###
 
@@ -69,3 +84,18 @@
 </div>
 
 ###
+
+<h2>Machine Learning Concept</h2>
+
+`Model Klasifikasi ASD` 
+
+<img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml.png" />
+<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml.png" />
+<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml2.png" />
+
+`Model Rekomendasi Terapi` 
+
+<img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml2.png" />
+
+<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml3.png" />
+<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml4.png" />
