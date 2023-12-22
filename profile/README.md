@@ -2,6 +2,15 @@
 
 ###
 
+<h3>Background Project</h4>
+
+<p align="justify">The lack of public awareness of people with disabilities, especially children with mental disabilities in Indonesia, results in a lack of concrete steps for early treatment of the problem. Children with disabilities usually have signs of developmental delays from infancy, so more attention is needed to the development and achievements of children from infancy ranging from 1 year to 4 years. The symptoms seen are generally a lack of motor development, language skills, social, emotional, and other disorders.</p>
+
+<p align="justify">To answer this problem, we had an idea about creating a therapy recommendation-based application specifically for parents of children who experience symptoms of developmental delays, especially autism. So that parents can more quickly take therapeutic action that is suitable for the symptoms experienced in children. By entering the symptoms shown by the child into this application, then the application will process in such a way as to bring up the results of appropriate therapy recommendations. It is hoped that this therapy can help and guide parents who have children with symptoms of developmental delay to be able to provide mild therapy that can be applied at home. 
+</p>
+
+<hr>
+
 <h2 align="center">This is the result of the hard work all of us to complete the Product Based Capstone by Team C23-PS081</h2> 
 
 <br>
@@ -10,7 +19,7 @@
   <img src="https://github.com/MITA-Team/.github/blob/main/src/cover.png" width="700" style="border-radius: 50%;">
 </div>
 
-<br><br>
+<br>
 
 ###
 
@@ -97,17 +106,55 @@
 
 ###
 
+<h2>Mobile Development Concept</h2>
+
+`Wireframe Design`
+
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/wireframe.png" width=700 />
+</div>
+
+<br>
+
+`Application Design`
+
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/UI2.png" width=700 />
+</div>
+
 <h2>Machine Learning Concept</h2>
 
-`Model Klasifikasi ASD` 
 
-<img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml.png" />
-<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml.png" />
-<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml2.png" />
+`Model Clarification for ASD` 
 
-`Model Rekomendasi Terapi` 
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml.png" width=700 />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml.png" />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml2.png" />
+</div>
 
-<img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml2.png" />
+<br>
 
-<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml3.png" />
-<img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml4.png" />
+`Model Recommendation Therapy` 
+
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml2.png" width=700 />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml3.png" />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml4.png" />
+</div>
+
+<h2>Cloud Computing Concept</h2>
+
+`Cloud Architecture`
+
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/arch.png" width=700 />
+</div>
+
+<br>
+
+`Flowchart System`
+
+<div align="center">
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/flowchart.png" width=700 />
+</div>
