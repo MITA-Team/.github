@@ -130,9 +130,7 @@
 `Model Classification for ASD` 
 
 <div align="center">
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml.png" width=700 />
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml.png" />
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml2.png" />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/model-loss.png" width=700 />
 </div>
 
 <br>
@@ -140,9 +138,7 @@
 `Model Recommendation Therapy` 
 
 <div align="center">
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml2.png" width=700 />
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml3.png" />
-  <img src="https://github.com/MITA-Team/.github/blob/main/src/chart-ml4.png" />
+  <img src="https://github.com/MITA-Team/.github/blob/main/src/model-loss2.png" width=700 />
 </div>
 
 <h2>Cloud Computing Concept</h2>
