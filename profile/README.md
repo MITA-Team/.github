@@ -9,6 +9,8 @@
 <p align="justify">To answer this problem, we had an idea about creating a therapy recommendation-based application specifically for parents of children who experience symptoms of developmental delays, especially autism. So that parents can more quickly take therapeutic action that is suitable for the symptoms experienced in children. By entering the symptoms shown by the child into this application, then the application will process in such a way as to bring up the results of appropriate therapy recommendations. It is hoped that this therapy can help and guide parents who have children with symptoms of developmental delay to be able to provide mild therapy that can be applied at home. 
 </p>
 
+-Mobile Innovative Therapy for Advancing Development
+
 <hr>
 
 <h2 align="center">This is the result of the hard work all of us to complete the Product Based Capstone by Team C23-PS081</h2> 
