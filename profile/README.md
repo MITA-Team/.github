@@ -127,7 +127,7 @@
 <h2>Machine Learning Concept</h2>
 
 
-`Model Clarification for ASD` 
+`Model Classification for ASD` 
 
 <div align="center">
   <img src="https://github.com/MITA-Team/.github/blob/main/src/data-ml.png" width=700 />
