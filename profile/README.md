@@ -34,7 +34,7 @@
   
   [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?)](https://github.com/MITA-Team/backend-api/actions)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg?)](https://opensource.org/licenses/MIT)
-  [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/MITA-Team/backend-api/releases)
+  [![Version](https://img.shields.io/badge/Version-1.0.0-yellow)](https://github.com/MITA-Team/backend-api/releases)
 </div>
 
 
